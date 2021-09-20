@@ -12,11 +12,7 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: "I'm a Web Developer with passion for technology and software \U0001F468‍\U0001F4BB. Actually, I'm studying web development and programming on Platzi \U0001F331. My goal is to specialize as a Fullstack Developer and develop multiplatform applications with web technologies \U0001F4AA.\n"
     actions:
       - label: Contact Me
         url: /contact
