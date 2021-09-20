@@ -31,7 +31,7 @@ seo:
       relativeUrl: true
 layout: page
 ---
-**Cristian Iñiguez** (the men in the photo is not me) is an Industrial Engineer and a Web Developer from Santa Cruz, Bolivia. After graduating from The Gabriel Rene Moreno University with a degree in Industrial Engineering, he worked as a learner for a glass factory.
+**Cristian Iñiguez** (the man in the photo is not me) is an Industrial Engineer and a Web Developer from Santa Cruz, Bolivia. After graduating from The Gabriel Rene Moreno University with a degree in Industrial Engineering, he worked as a learner for a glass factory.
 
 ## ¿How does he become from a Industrial Engineer to a Software Developer?
 
