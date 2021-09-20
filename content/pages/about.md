@@ -31,13 +31,24 @@ seo:
       relativeUrl: true
 layout: page
 ---
+**Cristian Iñiguez** (the men in the photo is not me) is an Industrial Engineer and a Web Developer from Santa Cruz, Bolivia. After graduating from The Gabriel Rene Moreno University with a degree in Industrial Engineering, he worked as a learner for a glass factory.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+## ¿How does he become from a Industrial Engineer to a Software Developer?
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+In his first work, he started to learn about Macros in Excel, and that was his first touch to the code and programming. Of course it was a short view, because he was envolved in other works, relative to an Industrial Engineer and not to a software developer.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+When Cristian got his degree, he was ready to start working on his first real job, but it was 2020, and everyone in this world knows what happened in that year.
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Due to pandemic, Cristian didn't work on anything, so he took advantage of his large free time, and remembering the first touch of programming in his first job, he started to investigate more. He puts himslef the task of making desktop apps.
 
-*Thank You for reading!*
+First, Cristian learned Java, and look for tutorials to make a desktop app with this technology, but it took some months to take count that Java wasn't the best solution.
+
+Later, Cristian tried with Python, but like Java he saw that the language worked better for other things instead of making desktop apps.
+
+In those months, Cristian learned a lot about programming, like Git. One day he discovered a technology called Electron, which uses JavaScript, which was a very popular language, but on Web Development, not on Desktop Development.
+
+Cristian did his last jump of faith and started to learn about JavaScript, but beacuse it was a language to make web apps, he also learned about HTML, CSS, Web Development, Node, until learning React, and finally, Electron.
+
+He liked Electron enough to have it as is favorite framework to make desktop apps, but in the way, Cristian discovered and bigger world, the world of Web Apps, so he changed his road, unitl maiking is first web application from zero, and later, making his second, third, and forth web apps.
+
+Now Cristian enjoys web development, and thanks to that, he got is first job as a programmer.
