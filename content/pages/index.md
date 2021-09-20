@@ -5,9 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hi, I''m a Web Developer'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      This is a project of the Platzi's Jamstack Introduction Course. I'm made
+      this because I wanted to learn about Jamstack. This site will become, in
+      the future, my blog.
   - section_id: about
     type: section_content
     title: About
